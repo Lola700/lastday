@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 import SearchInput from './components/SearchInput'
-import ProductList from './components/ProductList'
+import ProductList from './components/Productlist'
 import Cart from './components/Cart'
 
 const App = () => {
